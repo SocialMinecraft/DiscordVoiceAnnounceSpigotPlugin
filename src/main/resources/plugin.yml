@@ -1,0 +1,4 @@
+name: DiscordVoiceAnnounce
+version: 1.0
+main: club.somc.discordvoice.DiscordVoicePlugin
+api-version: 1.20
